@@ -1,5 +1,5 @@
 ## Challenge Week 3
-Linear regression is one of the fundamental statistical and machine learning techniques. There are good chances you’ll need it further down the road.
+Logistic regression is a predictive analysis technique to perform classification when dependent variable is binary. It is possible to extend this method in multiclass classification problems as well.
 
 ### How to use
 
